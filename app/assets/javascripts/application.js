@@ -8,7 +8,7 @@
 // compiled file.
 //
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
-// about supported directives. DÁ MERDA COM O REQUIRE TURBOLINKS, UM DIA TENHO DE PERCEBER ISTO!
+// about supported directives. DÁ PORCARIA COM O REQUIRE TURBOLINKS, UM DIA TENHO DE PERCEBER ISTO!
 //
 //= require jquery
 //= require jquery_ujs
